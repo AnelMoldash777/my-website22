@@ -1,0 +1,131 @@
+body {
+    background-color: #f4f5ef;
+    font-family: Arial, sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: Arial, sans-serif;
+    color: #333333;
+}
+
+p {
+    font-size: 16px;
+}
+
+.about{
+    background-color: #6cb1cd;
+}
+
+.fonta {
+    font-family: Arial«Courier New», Courier, monospace;
+}
+#love{
+    color: #4CAF4F;
+}
+#omg {
+    color: #ff0000;
+}
+.highlight{
+    width: 1400px;
+    margin: 0 auto;
+    padding-left: 20px;
+}
+#name{
+    color: white;
+    font-family: «Comic Sans MS», cursive, sans-serif, Impact, Charcoal, sans-serif;
+}
+
+.header {
+    background-color: #4CAF4F;
+    color: white;
+    text-align: center;
+}
+
+.main-content {
+    background-color: white;
+    margin: 20px 0;
+}
+
+.footer {
+    background-color: #436143;
+    color: white;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+}
+
+header, footer {
+    background-color: white;
+    margin-bottom: 20px;
+}
+
+header h1, footer h2 {
+    margin: 0;
+}
+
+.main-content {
+    margin-top: 20px;
+}
+
+section {
+    margin: 15px 0;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    background-color: white;
+}
+
+.btn{
+    background: #4CAF4F;
+    color: white;
+    border-radius: 4px;
+    padding: 15px 30px;
+    border: 0;
+}
+
+.aa{
+    color: white;
+}
+
+.static-box {
+    width: 800px;
+    height: auto;
+    position: static;
+}
+
+.relative-box {
+    width: 800px;
+    height: auto;
+    position: relative;
+}
+
+.image {
+    width: 95%;
+    height: auto;
+}
+
+.box {
+    width: 48%;
+    height: 300px;
+    margin-bottom: 20px;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
+
